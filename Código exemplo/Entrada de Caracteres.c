@@ -9,7 +9,7 @@ int main(int argc, char const *argv[]){
     printf("Digite seu nome: ");
     scanf("%s", &nome);
     printf("Digite sua idade: ");
-    scanf("%d", & idade);
+    scanf("%d", &idade);
     printf("Digite seu peso: ");
     scanf("%f", &peso);
  //O comando (%s) vai ler uma sequencia de caracteres e (%c) só lê 1 caractere isolado.
