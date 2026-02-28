@@ -31,4 +31,4 @@ int main(int argc, char const *argv[]){
     }
     return 0;
 }
-// Nao esquecer do break apos o final de cada case se nao o programa roda os casos que estiverem na frente dele tambem
+// Nao esquecer do break apos o final de cada case se nao o programa roda os casos que estiverem na frente dele tambem.
