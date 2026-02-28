@@ -32,19 +32,3 @@ int main(int argc, char const *argv[]){
 
     return 0;
 }
-
-// O programa ficaria assim utilizando o comando switch
-
-//    switch(menu) {
-//        case 1:
-//            printf("Pizza R$30\n");
-//            break; // O break manda o programa sair do switch
-//        case 2:
-//            printf("Hamburguer R$40\n");
-//            break;
-//        case 3:
-//            printf("Salada R$20\n");
-//            break;
-//        default: // É o equivalente ao seu "else"
-//            printf("Opcao invalida.\n");
-//    }
