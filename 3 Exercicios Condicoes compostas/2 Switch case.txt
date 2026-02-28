@@ -1,0 +1,23 @@
+De maneira simplificada o comando swtich case vai escolher uma variavel e ver em que caso ela vai ser igual
+Exemplo: 
+
+    switch(var){
+        case 1:
+            printf("alguma coisa")
+            break;
+        case 2:
+            printf("alguma coisa")
+            break;
+        case 3: 
+            printf("alguma coisa")
+            break;
+        case 4:
+            printf("alguma coisa")
+            break;
+        default:
+            printf("alguma coisa")
+            break;                   
+    }
+
+O defalut nao e obrigatorio.
+Nunca esquecer do break apos cada case

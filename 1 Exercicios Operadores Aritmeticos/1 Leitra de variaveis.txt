@@ -1,0 +1,6 @@
+%d ou %i Le numeros inteiros em base decimal
+%x Le numeros inteiros em base hexadecimal
+%f Le numeros reais (com casas decimais)
+%e Le numeros com notação científica (com casas decimais)
+%s Le caracteres alfanuméricos (texto)
+%c Le sequencia de caracteres alfanuméricos (texto) (apenas uma letra)

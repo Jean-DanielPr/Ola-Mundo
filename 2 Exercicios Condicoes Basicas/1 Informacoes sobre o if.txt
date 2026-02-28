@@ -1,0 +1,8 @@
+Na linguagem C eu sempre vou precisar colocar um ";" depois de uma operação, mas possui algumas exeções, uma das exeções é o if.
+O if abre uma nova chave, e eu não posso colocar ";" depois de uma chave, só irei colocar ";" nas operações que estiverem dentro do meu if
+
+    if(){
+
+    }
+
+    Ficando desse jeito como está no exemplo acima.

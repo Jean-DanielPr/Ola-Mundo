@@ -1,0 +1,13 @@
+Operadores lógicos.
+
+Conjunção: "e" lógico == &&
+    É verdade quando tudo o que estiver dentro do if for verdade
+Conjunção: "ou" lógico == ||
+    Das condições dentro do if, uma ou outra tem que ser verdade
+Inversão: negação - "não lógico" == !
+    Ele inverte o valor da condição, se for verdade transorma em mentira
+
+Comandos if e else
+Esses dois comandos sempre estão ligados, NÃO EXISTE UM "ELSE" SEM O IF e o else sempre vem após o if
+Quando a condição do if for verdadeira o else é ignorado.
+Quando a condição do if for falsa ele executa o else.
